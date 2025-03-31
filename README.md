@@ -61,8 +61,6 @@ Instructions to Run
 
 Clone the repository:
 
-git clone https://github.com/username/repository-name.git
-
 Install the required libraries:
 
 pip install -r requirements.txt
